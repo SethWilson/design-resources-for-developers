@@ -896,3 +896,36 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+
+>From Reddit Post on r/Entrepeneur [https://www.reddit.com/r/Entrepreneur/comments/i3gx89/where_you_find_free_good_quality_illustrations/](https://www.reddit.com/r/Entrepreneur/comments/i3gx89/where_you_find_free_good_quality_illustrations/) 
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [https://lukaszadam.com/illustrations](https://lukaszadam.com/illustrations) | Free Illustrations |
+| [https://www.humaaans.com/](https://www.humaaans.com/) | Humaaans |
+| [https://www.drawkit.io/](https://www.drawkit.io/) | Drawkit |
+| [https://opendoodles.com](https://opendoodles.com) | Open Doodles |
+| [https://illlustrations.co/](https://illlustrations.co/) | Illustrations.co |
+| [https://absurd.design](https://absurd.design) | Absurd Design |
+| [https://freepik.com](https://freepik.com) | freepik |
+| [https://undraw.co/illustrations](https://undraw.co/illustrations) | Undraw|
+| [https://Canva.com](https://Canva.com) | Free design software|
+| [https://thenounproject.com/](https://thenounproject.com/) | Noun project|
+| [https://www.openpeeps.com/](https://www.openpeeps.com/) | human illustration |
+| [https://www.flaticon.com/](https://www.flaticon.com/) | Vector Icons |
+| [https://undraw.co/](https://undraw.co/) | Free illustrations |
+| [https://glazestock.com](https://glazestock.com) | Free illustrations |
+| [https://blush.design/](https://blush.design/) | Blush Design |
+
+
+images.google.com
+
+Search for anything, then click "Tools", then click "Usage Rights". You can pick "Labeled for Reuse" and "Labeled for Reuse with Modification" (depending on whether you plan to tweak the image). You could pick the other options of course, but then you'd risk license violations (unless you're making a non-commercial site).
+
+Once you find something you like, just quickly check the license (eg. it might require that you add a tiny attribution footnote or HTML comment). Just like that, a world of Creative Commons-licensed images are available to you for your next project.
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
